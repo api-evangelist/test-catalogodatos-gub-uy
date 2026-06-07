@@ -1,0 +1,10 @@
+specification: API Commons Rate Limits
+specificationVersion: '0.1'
+provider: Uruguay Open Data Catalogue
+providerId: test-catalogodatos-gub-uy
+created: '2026-06-07'
+modified: '2026-06-07'
+reconciled: false
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com

@@ -1,0 +1,11 @@
+name: Uruguay Open Data Catalogue
+url: https://raw.githubusercontent.com/api-evangelist/test-catalogodatos-gub-uy/refs/heads/main/review.yml
+created: '2026-06-07'
+modified: '2026-06-07'
+reviews:
+  - date: '2026-06-07'
+    rating: 4
+    summary: Live CKAN API verified (v2.10.6), ~2,515 datasets.
+    endpoints:
+      - url: https://test.catalogodatos.gub.uy/api/3/action/status_show
+        status: 200
