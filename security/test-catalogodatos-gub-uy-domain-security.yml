@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: test.catalogodatos.gub.uy
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Aug 18 11:28:54 2026 GMT
+  hsts: false
+domains:
+- domain: gub.uy
+  dnssec: true
+  caa: []
+  spf: false
+  dmarc: false

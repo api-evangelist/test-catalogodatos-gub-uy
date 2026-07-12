@@ -40,6 +40,8 @@ apis:
       - type: x-ckan-version
         value: '2.10.6'
 common:
+  - type: DomainSecurity
+    url: security/test-catalogodatos-gub-uy-domain-security.yml
   - type: Website
     url: https://test.catalogodatos.gub.uy
   - type: Documentation
