@@ -26,7 +26,7 @@ tags:
   - Uruguay
 created: '2026-06-07'
 modified: '2026-06-07'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: test-catalogodatos-gub-uy:catalog
     name: Uruguay Open Data Catalogue CKAN Action API
