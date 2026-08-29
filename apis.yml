@@ -3,6 +3,17 @@ name: Uruguay Open Data Catalogue
 description: >-
   Uruguay Open Data Catalogue is a national government open-data portal for Uruguay running CKAN. It exposes the CKAN catalog API over approximately 2,515 datasets.
 kind: government
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
